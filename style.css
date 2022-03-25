@@ -80,8 +80,8 @@ header ul li a.active
 footer ul
 {
     display: flex;
-    justify-content: right;
-    align-items: right;
+    justify-content: left;
+    align-items: left;
     padding-top: 2%;
     padding-bottom: 2%;
     background: white;
